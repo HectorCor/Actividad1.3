@@ -29,3 +29,29 @@ body {
 .menu li a:hover {
     color: #ccc; /* Texto en color gris claro al pasar el ratón */
 }
+
+div {
+    font-family:sans-serif;
+}
+
+.mi-clase {
+    background-color: blue;
+}
+
+.mi-clase2 {
+    background-color: yellow;
+}
+
+.mi-clase3 {
+    background-color: orangered;
+}
+
+.mi-clase4 {
+    background-color: red;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Alinea los elementos hacia la izquierda */
+}
