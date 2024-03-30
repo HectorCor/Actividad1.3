@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    display: flex;
+    height: 100vh;
+}
+
+.menu {
+    width: 200px;
+    height: 100%;
+    background-color: #333; /* Fondo gris oscuro */
+    padding-top: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu li {
+    padding: 10px 20px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #fff; /* Texto en color blanco */
+    transition: color 0.3s;
+}
+
+.menu li a:hover {
+    color: #ccc; /* Texto en color gris claro al pasar el ratón */
+}
