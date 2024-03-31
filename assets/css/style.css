@@ -1,4 +1,5 @@
 body {
+    background-color: #333 ;
     margin: 0;
     padding: 0;
     font-family: sans-serif;
@@ -17,7 +18,7 @@ body {
 }
 
 .menu li {
-    padding: 5px 50px;
+    padding: 10px 50px;
 }
 
 .menu li a {
@@ -36,18 +37,30 @@ div {
 
 .mi-clase {
     background-color: blue;
+    height: 25%;
+    width: 96%;
+    text-indent: 10em;
 }
 
 .mi-clase2 {
     background-color: yellow;
+    height: 25%;
+    width: 96%;
+    text-indent: 10em;
 }
 
 .mi-clase3 {
     background-color: orangered;
+    height: 25%;
+    width: 96%;
+    text-indent: 10em;
 }
 
 .mi-clase4 {
     background-color: red;
+    height: 25%;
+    width: 96%;
+    text-indent: 10em;
 }
 
 .container {
