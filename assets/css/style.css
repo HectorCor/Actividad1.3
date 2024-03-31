@@ -36,7 +36,8 @@ div {
 }
 
 .mi-clase {
-    background-color: blue;
+    background-color:aquamarine;
+    color: white;
     height: 25%;
     width: 96%;
     text-indent: 10em;
@@ -44,13 +45,15 @@ div {
 
 .mi-clase2 {
     background-color: yellow;
+    color: white;
     height: 25%;
     width: 96%;
     text-indent: 10em;
 }
 
 .mi-clase3 {
-    background-color: orangered;
+    background-color: orange;
+    color: white;
     height: 25%;
     width: 96%;
     text-indent: 10em;
@@ -58,6 +61,7 @@ div {
 
 .mi-clase4 {
     background-color: red;
+    color: white;
     height: 25%;
     width: 96%;
     text-indent: 10em;
